@@ -22,7 +22,7 @@
 
 ## Date
 
-- [https://github.com/chmln/flatpickr](https://github.com/chmln/flatpickr) Lightweight and powerful datetimepicker.
+- [flatpickr](https://github.com/chmln/flatpickr) Lightweight and powerful datetimepicker.
 
 
 ## DOM Elements
